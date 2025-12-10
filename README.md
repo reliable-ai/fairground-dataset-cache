@@ -16,3 +16,7 @@ uvx fairml-datasets@latest export-datasets --collection=PermissivelyLicensedFull
 # Compress the cache directory for convenient download / sharing
 zip -r fairground_cache.zip fairground_cache
 ```
+
+## Licenses
+
+Please refer to the individual datasets regarding license information (aggregated at https://reliable-ai.github.io/fairground/).
