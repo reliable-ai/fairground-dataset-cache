@@ -9,7 +9,7 @@ For additional context, please refer to the main repository: https://github.com/
 
 The datasets are exported using the fairml-datasets CLI tool. To generate / update the cache, run the following commands:
 
-````bash
+```bash
 # Export datasets using CLI
 uvx fairml-datasets@latest export-datasets --collection=PermissivelyLicensedFull --stage=loaded --format=parquet --output-path=./fairground_cache --include-large-datasets
 
