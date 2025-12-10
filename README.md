@@ -1,6 +1,7 @@
 # Fairground Dataset Cache 🗃️
 
 This repository contains a cache of all datasets from the Fairground project whose licenses allow for redistribution.
+Datasets are cached at the `loaded` stage of the processing pipeline.
 
 For additional context, please refer to the main repository: https://github.com/reliable-ai/fairground
 
